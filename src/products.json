@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Pelota de Fútbol Adidas Tango",
+      "description": "Pelota de fútbol oficial de Adidas con diseño clásico Tango.",
+      "price": 30.99,
+      "thumbnail": "adidas_tango.jpg",
+      "code": "ADFT01",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "Pelota de Fútbol Nike Premier Team",
+      "description": "Pelota de fútbol de alta calidad de Nike para entrenamientos y partidos.",
+      "price": 25.99,
+      "thumbnail": "nike_premier.jpg",
+      "code": "NKPT02",
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "title": "Pelota de Fútbol Puma Future",
+      "description": "Diseño moderno y tecnología avanzada en la pelota de fútbol Puma Future.",
+      "price": 32.50,
+      "thumbnail": "puma_future.jpg",
+      "code": "PMFT03",
+      "stock": 35
+    },
+    {
+      "id": 4,
+      "title": "Pelota de Fútbol Umbro Special",
+      "description": "Pelota de fútbol clásica de Umbro con estilo vintage.",
+      "price": 28.75,
+      "thumbnail": "umbro_special.jpg",
+      "code": "UMSP04",
+      "stock": 45
+    },
+    {
+      "id": 5,
+      "title": "Pelota de Fútbol Select Brilliant Super",
+      "description": "Pelota de fútbol de alta gama con tecnología Select Brilliant Super.",
+      "price": 39.99,
+      "thumbnail": "select_brilliant.jpg",
+      "code": "SBSP05",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "title": "Pelota de Fútbol Mitre Impel",
+      "description": "Pelota de fútbol duradera y de alto rendimiento de la marca Mitre.",
+      "price": 22.50,
+      "thumbnail": "mitre_impel.jpg",
+      "code": "MTIM06",
+      "stock": 55
+    },
+    {
+      "id": 7,
+      "title": "Pelota de Fútbol Diadora Serie A",
+      "description": "Pelota de fútbol oficial de la Serie A italiana fabricada por Diadora.",
+      "price": 34.99,
+      "thumbnail": "diadora_seriea.jpg",
+      "code": "DASA07",
+      "stock": 38
+    },
+    {
+      "id": 8,
+      "title": "Pelota de Fútbol Kelme Trueno",
+      "description": "Pelota de fútbol resistente y de gran agarre de la marca Kelme.",
+      "price": 27.50,
+      "thumbnail": "kelme_trueno.jpg",
+      "code": "KETR08",
+      "stock": 42
+    },
+    {
+      "id": 9,
+      "title": "Pelota de Fútbol Joma Dali",
+      "description": "Pelota de fútbol Joma con diseño artístico inspirado en Salvador Dalí.",
+      "price": 31.25,
+      "thumbnail": "joma_dali.jpg",
+      "code": "JODA09",
+      "stock": 48
+    },
+    {
+      "id": 10,
+      "title": "Pelota de Fútbol Lotto Stadio",
+      "description": "Pelota de fútbol Lotto para partidos profesionales en el estadio.",
+      "price": 36.50,
+      "thumbnail": "lotto_stadio.jpg",
+      "code": "LOST10",
+      "stock": 33
+    }
+  ]
+  

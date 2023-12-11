@@ -1,0 +1,12 @@
+{
+    "name": "express-product-manager",
+    "version": "1.0.0",
+    "description": "Server using Express for managing products",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
