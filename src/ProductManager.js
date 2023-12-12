@@ -32,7 +32,7 @@ class ProductManager {
     return Date.now();
   }
 
-  async addProduct({ title, description, price, thumbnail, code, stock }) {
+  async addProduct({ title, description, code, price, available, stock, category, thumbnails }) {
     // Verificar si el código ya existe
     if (this.products.some(product => product.code === code)) {
       throw new Error('El código del producto ya está en uso.');
@@ -46,10 +46,12 @@ class ProductManager {
       id,
       title,
       description,
-      price,
-      thumbnail,
       code,
-      stock
+      price,
+      available: available !== undefined ? available : true, // Establecer el valor predeterminado
+      stock,
+      category,
+      thumbnails: thumbnails || [],
     };
 
     // Agregar el producto al array de productos
